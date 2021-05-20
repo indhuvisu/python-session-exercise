@@ -1,3 +1,9 @@
+"""This module demonstrates and utilize basic class concepts
+    Take away:
+    #1 : Name Mangling & private methods and variables
+    #2 : define and access class level methods using @classmethod
+    #3 : Use of super()
+    #4 : Overriding __str__ method"""
 
 class Employee:
     """This variable to is common to all Internal Employee object"""
