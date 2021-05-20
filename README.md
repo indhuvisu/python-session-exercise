@@ -1,2 +1,2 @@
 # python-session-exercise
-A project which have examples for advanced python topics
+A project which has example code for advanced python topics
